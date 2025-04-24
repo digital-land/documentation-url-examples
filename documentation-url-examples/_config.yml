@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Borchester Council
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  Borchester Council serves the residents, businesses, and visitors of Borchester, a vibrant market town in the heart of England. 
+  Known for its rich history, picturesque countryside, and thriving local economy, Borchester is a hub of culture and community. 
+  The council is committed to delivering high-quality services, promoting sustainability, and fostering a safe and inclusive environment 
+  for all. From maintaining green spaces and supporting local businesses to providing essential services and planning for the future, 
+  Borchester Council works tirelessly to enhance the quality of life for everyone in the borough.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima

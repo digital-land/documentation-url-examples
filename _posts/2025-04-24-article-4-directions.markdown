@@ -2,7 +2,6 @@
 layout: post
 title:  "Article 4 Directions"
 date:   2025-04-24 17:13:45 +0000
-categories: Planning
 ---
 Contents
 --------

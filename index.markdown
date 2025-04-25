@@ -11,6 +11,6 @@ These patterns show you examples for how you might publish planning data on your
 
 This example shows more than one Article 4 Direction on a page, with an anchor link for each area.
 
-## [One per page]({{ site.url }}{{ site.baseurl }}/article-4-directions/)
+## [One per page]({{ site.baseurl }}/article-4-directions/)
 
 This example shows one Article 4 Direction per page and an index page holding links to each Article 4 Direction.

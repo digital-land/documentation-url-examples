@@ -15,4 +15,4 @@ Some stuff about this Article 4 Direction.
 Documents
 ----------------------
 
-* [Moorview Article 4 Direction area appraisal (PDF, 420KB)](#)
+* [Moorview Article 4 Direction document (PDF, 420KB)](#)

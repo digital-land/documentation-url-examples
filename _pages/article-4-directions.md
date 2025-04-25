@@ -5,6 +5,8 @@ date:   2025-04-24 17:13:45 +0000
 permalink: /article-4-directions/
 ---
 
+> One per page example.
+
 Introduction
 ------------
 

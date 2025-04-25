@@ -3,6 +3,9 @@ layout: post
 title:  "Article 4 Directions"
 date:   2025-04-24 17:13:45 +0000
 ---
+
+> All on one page example.
+
 Contents
 --------
 

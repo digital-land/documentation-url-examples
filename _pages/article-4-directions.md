@@ -15,10 +15,10 @@ Under current planning legislation householders have the right to make alteratio
 Areas
 -----
 
-* [Ambridge](/article-4-directions/ambridge/)
-* [Croxton](/article-4-directions/croxton/)
-* [Fotheringhay Fields](/article-4-directions/fotheringhay-fields/)
-* [Moorview](/article-4-directions/moorview/)
+* [Ambridge]({{ site.baseurl }}/article-4-directions/ambridge/)
+* [Croxton]({{ site.baseurl }}/article-4-directions/croxton/)
+* [Fotheringhay Fields]({{ site.baseurl }}/article-4-directions/fotheringhay-fields/)
+* [Moorview]({{ site.baseurl }}/article-4-directions/moorview/)
 
 Data and other resources
 ----------------------

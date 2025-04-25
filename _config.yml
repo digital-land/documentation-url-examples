@@ -24,8 +24,8 @@ description: >-
   Borchester Council serves residents, businesses, and visitors in a historic market town in England. 
   Committed to sustainability, quality services, and community, the council enhances life through green spaces, 
   local business support, and future planning.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/documentation-url-examples" # the subpath of your site, e.g. /blog
+url: "https://digital-land.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

@@ -14,3 +14,5 @@ This example shows more than one Article 4 Direction on a page, with an anchor l
 ## [One per page]({{ site.baseurl }}/article-4-directions/)
 
 This example shows one Article 4 Direction per page and an index page holding links to each Article 4 Direction.
+
+## [Using a finder]({{ site.baseurl }}/tree-preservation-orders/)

@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-037/
 Reference:	B/TPO #037 <br/>
 Name: Greenhaven House<br/>
 Made date: 2010-12-25<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/037/b-tpo-037.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/037/b-tpo-037.pdf](#)<br/>
 Confirmed date: 2010-12-25<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/037/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/037/](#)<br/>

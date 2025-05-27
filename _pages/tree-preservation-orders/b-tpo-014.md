@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-014/
 Reference: B/TPO #014 <br/>
 Name: Alderman's Cottage<br/>
 Made date: 1981-07-25<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/014/b-tpo-014.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/014/b-tpo-014.pdf](#)<br/>
 Confirmed date: 1981-07-25<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/014/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/014/](#)<br/>

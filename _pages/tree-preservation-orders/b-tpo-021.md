@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-021/
 Reference:	B/TPO #021 <br/>
 Name: Willowdale House<br/>
 Made date: 1984-09-20<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/021/b-tpo-021.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/021/b-tpo-021.pdf](#)<br/>
 Confirmed date: 1984-09-20<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/021/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/021/](#)<br/>

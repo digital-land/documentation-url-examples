@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-029/
 Reference:	B/TPO #029 <br/>
 Name: Greenhaven House<br/>
 Made date: 1991-09-20<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/029/b-tpo-029.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/029/b-tpo-029.pdf](#)<br/>
 Confirmed date: 1991-09-20<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/029/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/029/](#)<br/>

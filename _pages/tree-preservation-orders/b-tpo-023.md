@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-023/
 Reference: B/TPO #023 <br/>
 Name: Shepherd's Field House<br/>
 Made date: 1993-03-10<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/023/b-tpo-023.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/023/b-tpo-023.pdf](#)<br/>
 Confirmed date: 1993-03-10<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/023/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/023/](#)<br/>

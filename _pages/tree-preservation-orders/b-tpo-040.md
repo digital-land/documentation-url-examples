@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-040/
 Reference:	B/TPO #040 <br/>
 Name: Oakwood House<br/>
 Made date: 2003-05-10<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/040/b-tpo-040.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/040/b-tpo-040.pdf](#)<br/>
 Confirmed date: 2003-05-10<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/040/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/040/](#)<br/>

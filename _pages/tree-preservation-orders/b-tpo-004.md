@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-004/
 Reference: B/TPO #004 <br/>
 Name: Elmwood House<br/>
 Made date: 1978-06-15<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/004/b-tpo-004.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/004/b-tpo-004.pdf](#)<br/>
 Confirmed date: 1978-06-15<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/004/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/004/](#)<br/>

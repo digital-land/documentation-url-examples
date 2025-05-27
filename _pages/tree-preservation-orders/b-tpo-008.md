@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-008/
 Reference: B/TPO #008 <br/>
 Name: Greenwood House<br/>
 Made date: 1993-02-10<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/008/b-tpo-008.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/008/b-tpo-008.pdf](#)<br/>
 Confirmed date: 1993-02-10<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/008/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/008/](#)<br/>

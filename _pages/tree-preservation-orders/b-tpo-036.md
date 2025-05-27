@@ -8,6 +8,6 @@ permalink: /tree-preservation-orders/b-tpo-036/
 Reference:	B/TPO #036 <br/>
 Name: Vicarage Green House<br/>
 Made date: 2009-11-10<br/>
-Document URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/036/b-tpo-036.pdf<br/>
+Document URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/036/b-tpo-036.pdf](#)<br/>
 Confirmed date: 2009-11-10<br/>
-Documentation URL: www.borchester.gov.uk/trees/preservation-orders/b-tpo/036/<br/>
+Documentation URL: [www.borchester.gov.uk/trees/preservation-orders/b-tpo/036/](#)<br/>

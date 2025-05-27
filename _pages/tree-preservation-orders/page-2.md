@@ -5,6 +5,18 @@ date:   2025-05-23 16:11:02 +0000
 permalink: /tree-preservation-orders/page-2/
 ---
 
+Tree Preservation Orders (TPOs) are made by Borchester Council to protect specific trees, groups of trees, or woodlands in the local area. A TPO makes it an offence to cut down, top, lop, uproot, or damage protected trees without the council’s written permission.
+
+Use this page to:
+
+- find out if a tree is protected by a TPO
+- view details about each TPO, including location, species, and date
+- access official TPO documents
+
+If you want to carry out work on a protected tree, you must apply for permission from the council. For more information, visit [Apply for tree work consent]({{ site.baseurl }}/#/) or contact our planning team.
+
+---
+
 | [026]({{ site.baseurl }}/tree-preservation-orders/b-tpo-026/) | Greenhaven House | 25 Bishop's Court, Bishop's Court | Bishop's Court | Field Maple (Acer campestre) | 1994-08-20 |
 | [027]({{ site.baseurl }}/tree-preservation-orders/b-tpo-027/) | The Old Vicarage | 39 Bishop's Court, Bishop's Court | Bishop's Court | English Walnut (Juglans regia) | 1985-01-15 |
 | [028]({{ site.baseurl }}/tree-preservation-orders/b-tpo-028/) | Willowbrook House | 23 Maple Street, Market Place | Market Place | English Hawthorn (Crataegus monogyna) | 1990-04-10 |

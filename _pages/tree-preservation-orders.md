@@ -5,6 +5,18 @@ date:   2025-05-23 16:11:02 +0000
 permalink: /tree-preservation-orders/
 ---
 
+Tree Preservation Orders (TPOs) are made by Borchester Council to protect specific trees, groups of trees, or woodlands in the local area. A TPO makes it an offence to cut down, top, lop, uproot, or damage protected trees without the council’s written permission.
+
+Use this page to:
+
+- find out if a tree is protected by a TPO
+- view details about each TPO, including location, species, and date
+- access official TPO documents
+
+If you want to carry out work on a protected tree, you must apply for permission from the council. For more information, visit [Apply for tree work consent]({{ site.baseurl }}/#/) or contact our planning team.
+
+---
+
 | **B/TPO #** | **House Name** | **Address** | **Locality** | **Tree Species** | **Date** |
 | --- | --- | --- | --- | --- | --- |
 | [001]({{ site.baseurl }}/tree-preservation-orders/b-tpo-001/) | Willowbrook House | 15 Oak Street, Sheephold | Sheephold | English Oak (Quercus robur) | 1975-02-20 |

@@ -5,6 +5,8 @@ date: 2025-05-23 16:11:02 +0000
 permalink: /tree-preservation-orders/b-tpo-014/
 ---
 
+[< Go back to the list of tree preservation orders]({{ site.baseurl }}/tree-preservation-orders/)
+
 Reference: B/TPO #014 <br/>
 Name: Alderman's Cottage<br/>
 Made date: 1981-07-25<br/>

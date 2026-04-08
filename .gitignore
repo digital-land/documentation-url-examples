@@ -1,5 +1,14 @@
+# macOS
+.DS_Store
+ 
+# Editor directories
+.vscode/
+.idea/
+ 
+# Jekyll build artefacts (no longer used, kept in case of local installs)
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+ 
